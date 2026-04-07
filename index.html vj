@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Humbleness of Viraaj Patwa</title>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+      color: #222;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 15px;
+    }
+
+    .meta {
+      color: #777;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.7;
+      margin-bottom: 20px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+
+    .caption {
+      font-size: 13px;
+      color: #555;
+      text-align: center;
+      margin-top: -10px;
+      margin-bottom: 20px;
+    }
+
+    .footer {
+      margin-top: 30px;
+      font-size: 13px;
+      color: #888;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    
+    <h1>The Humbleness of Viraaj Patwa Strikes Again</h1>
+    
+    <div class="meta">Makes time for an obsessed fan after his match</div>
+
+    <p>
+      After an intense match on the court, most players would head straight for rest and recovery.
+      But not Viraaj Patwa. Known not just for his performance but for his grounded personality,
+      he once again proved why he stands out beyond the game.
+    </p>
+
+    <p>
+      Right after finishing his match, Viraaj was approached by an eager fan who couldn’t hide his excitement.
+      Instead of brushing past, he paused, smiled, and took a moment to interact—showing genuine humility.
+    </p>
+
+    <img src="89B419C5-AFF2-4503-95D7-B69F5EEA99B7.jpeg" alt="Before handshake">
+    <div class="caption">A wholesome moment begins as the fan approaches Viraaj.</div>
+
+    <p>
+      What started as a brief interaction quickly turned into a memorable exchange.
+      The fan, visibly thrilled, reached out—and Viraaj responded warmly.
+    </p>
+
+    <img src="E6DF0CE9-C9AB-414A-8244-F4BD6CF3C338.jpeg" alt="Handshake">
+    <div class="caption">A handshake that reflects humility and respect.</div>
+
+    <p>
+      In a world where athletes are often in a rush, it’s these small gestures that leave a lasting impact.
+      Viraaj Patwa reminds us that true greatness isn’t just about winning—it’s about how you treat people.
+    </p>
+
+    <div class="footer">
+      © 2026 Sports Feature • Inspired by real moments on court
+    </div>
+
+  </div>
+
+</body>
+</html>
